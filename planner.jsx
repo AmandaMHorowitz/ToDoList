@@ -1,7 +1,3 @@
-/*
-You to not need to change this planner.jsx file. This task only requires changes to the index.html file and the styles.css file.
-*/
-
 function App() {
   const addEvent = (text, dateLocalStr) => {
     const newEvents = [
@@ -46,20 +42,20 @@ function App() {
 
   const [todos, setTodos] = React.useState([
     {
-      text: "Get Groceries",
-      date: "12:39:38 PM",
+      text: "Go to work",
+      date: "7:30-3:30",
     },
     {
-      text: "Meal Prep",
-      date: "12:41:38 PM",
+      text: "Pick up baby",
+      date: "4:30pm",
     },
     {
-      text: "Power Nap",
-      date: "12:45:38 PM",
+      text: "Cook dinner",
+      date: "5:30pm",
     },
     {
-      text: "Learn React",
-      date: "04:45:38 PM",
+      text: "Make To Do list repo",
+      date: "9:00pm",
     },
   ]);
   return (
