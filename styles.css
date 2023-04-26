@@ -1,6 +1,6 @@
 #root {
   background-color: lightblue;
-  display: table;
+  width: fit-content;
 }
 
 .planner-item{
