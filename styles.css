@@ -1,6 +1,6 @@
 #root {
   background-color: lightblue;
-  width: content
+  width: fit-content;
 }
 
 .planner-item{
@@ -8,6 +8,7 @@
   border: 1px solid black;
   padding: 5px;
   margin: 10px;
+  width: fit-content;
 }
 .planner-item:hover{
   cursor: pointer;
