@@ -1,6 +1,6 @@
 #root {
   background-color: lightblue;
-  width: 30%
+  width: 25% WindowFrame
 }
 .planner-item{
   background-color: lightgray;
@@ -18,7 +18,4 @@ input{
 }
 input:hover{
   background-color: lightcyan;
-}
-.planner-item:last-of-type{
-  margin-bottom: 0px;
 }
