@@ -1,7 +1,8 @@
 #root {
   background-color: lightblue;
-  width: fit-content;
+  width: content
 }
+
 .planner-item{
   background-color: lightgray;
   border: 1px solid black;
