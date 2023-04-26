@@ -1,6 +1,6 @@
 #root {
   background-color: lightblue;
-  width: 25% WindowFrame
+  width: fit-content;
 }
 .planner-item{
   background-color: lightgray;
